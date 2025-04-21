@@ -1,8 +1,8 @@
-# Even & Odd Number Analyzer 🧮
+# Even & Odd Number Analyzer
 
-This Python script allows users to input numbers, then analyzes and summarizes the results. It tracks and reports even and odd numbers separately, giving detailed feedback on totals, highest and lowest values, and the overall average.
+This Python script (beginner_friendly) allows users to input numbers, then analyzes and summarizes the results. It tracks and reports even and odd numbers separately, giving detailed feedback on totals, highest and lowest values, and the overall average.
 
-## 🔍 Features
+## Features
 
 - Real-time classification of numbers as even or odd
 - Separate storage and reporting for even and odd numbers
@@ -13,7 +13,7 @@ This Python script allows users to input numbers, then analyzes and summarizes t
   - Highest and lowest values in each category
   - Overall average of all numbers entered
 
-## ▶️ How to Use
+## How to Use
 
 1. Run the script in a Python environment (e.g., PyCharm, terminal, VS Code)
 2. Enter any number when prompted
